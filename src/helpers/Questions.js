@@ -1,13 +1,5 @@
 export const Questions = [
-  {
-    prompt: "What is my name?",
-    optionA: "John",
-    optionB: "Jake",
-    optionC: "Josh",
-    optionD: "Pedro",
-    asnwer: "optionD",
-  },
-  {
+ {
     prompt: "Which of this is not a programming language?",
     optionA: "Python",
     optionB: "JavaScript",
@@ -23,4 +15,29 @@ export const Questions = [
     optionD: "Java",
     asnwer: "optionD",
   },
+  {
+    prompt:"Who is the capital of France?",
+    optionA: "New York",
+    optionB: "London",
+    optionC: "Paris",
+    optionD: "Dublin",
+    asnwer: "optionC",
+  },
+  {
+    prompt:"Who is the CEO of Tesla?",
+    optionA: "Jeff Bezos",
+    optionB: "Elon Musk",
+    optionC: "Bill Gates",
+    optionD: "Tony Stark",
+    asnwer: "optionB",
+  },
+  {
+    prompt:"The iPhone was created by which company?",
+    optionA: "Apple",
+    optionB: "Intel",
+    optionC: "Amazon",
+    optionD: "Microsoft",
+    asnwer: "optionA",
+  },
+
 ];
